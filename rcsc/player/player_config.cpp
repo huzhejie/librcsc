@@ -75,7 +75,7 @@ PlayerConfig::setDefaultParam()
     M_goalie = false;
 
     M_interval_msec = 10;
-    M_server_wait_seconds = 5;
+    M_server_wait_seconds = 600;
 
     M_wait_time_thr_synch_view = 79;
     M_wait_time_thr_nosynch_view = 75;
